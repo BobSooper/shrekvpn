@@ -1,0 +1,81 @@
+body {
+  background-color: black !important;
+  margin: 0;
+}
+
+.StatusBar {
+  padding: 14px 0;
+  background-color: #75f514;
+}
+
+.nav a {
+  color: white;
+}
+
+.nav a:hover {
+  color: #75f514;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.nav li {
+  margin-left: 20px;
+}
+
+.ContentWrapper {
+  height: 70vh;
+  background-color: black;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) ), url('images/banner-background-3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ContentWrapper h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 64px;
+  margin-left: 20%;
+  margin-top: 7.5%;
+}
+.ContentWrapper p {
+  color: white;
+  font-size: 20px;
+  margin-top: 3%;
+  margin-left: 20%;
+}
+
+
+.PartnerBag {
+  height: 10vh;
+  background-color: lightgrey;
+}
+
+.nav a {
+  color: white;
+}
+
+.nav a:hover {
+  color: #75f514;
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.nav li {
+  margin-left: 20px;
+}
+
+.PropertiesContainer {
+  height: 90vh;
+  background-color: white;
+}
+
+.PropertiesContainer .secure-and-private-img {
+  height: 400px;
+  width: auto;
+  display: inline-block;
+}
+
+.PropertiesContainer h1 {
+  font-weight: bold;
+  display: inline;
+}
