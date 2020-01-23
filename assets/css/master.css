@@ -1,0 +1,35 @@
+.cover-page h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.cover-page p {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: white;
+  margin-left: 10%;
+}
+
+.cover-page a {
+  color: white;
+  padding: 20px 30px;
+  border-radius: 2px;
+  background-color: #75f514;
+  text-decoration: none;
+  margin-left: 10%;
+  line-height: 100px;
+}
+
+.cover-page a:hover {
+  opacity: .9;
+}
+
+@media only screen and (max-width: 620px) {
+  .cover-page h1 {
+    
+  }
+}
